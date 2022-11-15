@@ -1,1 +1,3 @@
 Hello world
+NEW LINE IN a
+MORE CONTENT FOR C6
